@@ -28,58 +28,61 @@
 
 12. World Regional Geography: People, Places and Globalization [World Regional Geography: People, Places and Globalization - Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/world-regional-geography-people-places-and-globalization)
     
-    
-    
-    
     ## Geospatial Data Science
 
-1. Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib  [Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/gis-open-source-python/)
+13. Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib  [Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/gis-open-source-python/)
 
-2. Kaggle Geospatial Analysis [Learn Geospatial Analysis Tutorials](https://www.kaggle.com/learn/geospatial-analysis)
+14. Kaggle Geospatial Analysis [Learn Geospatial Analysis Tutorials](https://www.kaggle.com/learn/geospatial-analysis)
 
-3.  Geo-Python [Welcome to Geo-Python 2019! &mdash; Geo-Python site documentation](https://geo-python.github.io/site/)
+15. Geo-Python 2019 [Welcome to Geo-Python 2019! &mdash; Geo-Python site documentation](https://geo-python.github.io/site/)
 
-4. Python for Geospatial Analysis [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)
+16. Geo-Python 2022 [Welcome to Geo-Python 2022!](https://geo-python-site.readthedocs.io/en/latest/index.html)
 
-5. Introduction to Python for Geographic Data Analysis [Introduction to Python for Geographic Data Analysis](https://pythongis.org/index.html)
+17. Python for Geospatial Analysis [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)
 
-6. Earth Data Science Courses [Earth Data Science Courses & Textbooks | Earth Data Science - Earth Lab](https://www.earthdatascience.org/courses/)
+18. Introduction to Python for Geographic Data Analysis [Introduction to Python for Geographic Data Analysis](https://pythongis.org/index.html)
 
-7. Python Foundation for Spatial Analysis [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html)
+19. Earth Data Science Courses [Earth Data Science Courses & Textbooks | Earth Data Science - Earth Lab](https://www.earthdatascience.org/courses/)
 
-8. Welcome to the Python GDAL/OGR Cookbook [Welcome to the Python GDAL/OGR Cookbook! — Python GDAL/OGR Cookbook 1.0 documentation](https://pcjericks.github.io/py-gdalogr-cookbook/index.html)
+20. Python Foundation for Spatial Analysis [Python Foundation for Spatial Analysis (Full Course Material)](https://courses.spatialthoughts.com/python-foundation.html)
 
-9. The Environmental Data Science book [The Environmental Data Science book](https://the-environmental-ds-book.netlify.app/welcome.html)
+21. Introduction to Python Scripting for Geospatial Course https://pratt-savi-810.github.io/
 
-10. Introduction · Geographic Data Science with PySAL and the pydata stack [Introduction · Geographic Data Science with PySAL and the pydata stack](http://darribas.org/gds_scipy16/)
+22. Welcome to the Python GDAL/OGR Cookbook [Welcome to the Python GDAL/OGR Cookbook! — Python GDAL/OGR Cookbook 1.0 documentation](https://pcjericks.github.io/py-gdalogr-cookbook/index.html)
 
-11. Measuring the evolution of spatial dependence and spatial inequality: A tutorial using Python https://deepnote.com/@carlos-mendez/PYTHON-Spatial-data-science-4dda4dc4-af8c-48fd-9bdf-7b18a5efef8e
+23. The Environmental Data Science book [The Environmental Data Science book](https://the-environmental-ds-book.netlify.app/welcome.html)
 
-12. Spatial data science for sustainable development [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/index.html#)
+24. Introduction · Geographic Data Science with PySAL and the pydata stack [Introduction · Geographic Data Science with PySAL and the pydata stack](http://darribas.org/gds_scipy16/)
 
-13. Automating GIS Processes 2022 https://autogis-site.readthedocs.io/en/latest/index.html
+25. Measuring the evolution of spatial dependence and spatial inequality: A tutorial using Python https://deepnote.com/@carlos-mendez/PYTHON-Spatial-data-science-4dda4dc4-af8c-48fd-9bdf-7b18a5efef8e
 
-14. Programming for Geospatial Hydrological Applications [Course: Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2#section-0)
+26. Spatial data science for sustainable development [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/index.html#)
 
-15. Python for GIS and Geoscience [Python for GIS and Geoscience | Doctoral schools of Ghent University](https://jorisvandenbossche.github.io/DS-python-geospatial/)
+27. Automating GIS Processes 2022 https://autogis-site.readthedocs.io/en/latest/index.html
 
-16. Mapping and Data Visualization with Python [Mapping and Data Visualization with Python (Full Course Material)](https://courses.spatialthoughts.com/python-dataviz.html)
+28. Programming for Geospatial Hydrological Applications [Course: Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2#section-0)
 
-17. Spatial Thoughts OpenCourseWare [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/index.html)
+29. Python for GIS and Geoscience [Python for GIS and Geoscience | Doctoral schools of Ghent University](https://jorisvandenbossche.github.io/DS-python-geospatial/)
 
-18. Geographic Data Science with Python [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+30. Mapping and Data Visualization with Python [Mapping and Data Visualization with Python (Full Course Material)](https://courses.spatialthoughts.com/python-dataviz.html)
 
-19. Machine Learning of Spatial Data [ Machine Learning of Spatial Data](https://www.mdpi.com/2220-9964/10/9/600/htm)
+31. Spatial Thoughts OpenCourseWare [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/index.html)
 
-20. PyGIS [PyGIS - Open Source Spatial Programming & Remote Sensing ](https://pygis.io/docs/a_intro.html)
+32. Geographic Data Science with Python [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
-21. Spatial Sampling and Resampling for Machine Learning [Introduction | Spatial sampling and resampling for Machine Learning](https://opengeohub.github.io/spatial-sampling-ml/index.html)
+33. Machine Learning of Spatial Data [ Machine Learning of Spatial Data](https://www.mdpi.com/2220-9964/10/9/600/htm)
 
-22. Machine Learning GeoHackWeek [Machine Learning GeoHackWeek](https://geohackweek.github.io/machine-learning/)
+34. PyGIS [PyGIS - Open Source Spatial Programming & Remote Sensing ](https://pygis.io/docs/a_intro.html)
 
-23. 
+35. Spatial Sampling and Resampling for Machine Learning [Introduction | Spatial sampling and resampling for Machine Learning](https://opengeohub.github.io/spatial-sampling-ml/index.html)
 
+36. Machine Learning GeoHackWeek [Machine Learning GeoHackWeek](https://geohackweek.github.io/machine-learning/)
 
+37. Spatial and spatiotemporal interpolation using Ensemble Machine Learning [Introduction | Spatial and spatiotemporal interpolation using Ensemble Machine Learning](https://opengeohub.github.io/spatial-prediction-eml/index.html)
+
+38. Public Policy Analytics [Public Policy Analytics: Code &amp; Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/)
+
+39. Spatial Data Programming with Python [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html)
 
 ## GIS
 
