@@ -2,8 +2,6 @@
 
 [Back](README.md)
 
-
-
 1. QGIS - [Welcome to the QGIS project!](https://www.qgis.org/en/site/)
 
 2. Whitebox Tools - https://www.whiteboxgeo.com/
@@ -29,3 +27,17 @@
 12. PostGIS https://postgis.net/
 
 13. Apache Sedona [Apache Sedona&trade;](https://sedona.apache.org/latest-snapshot/)
+
+14. Tile38 https://tile38.com
+
+15. Blender GIS  [GitHub - domlysz/BlenderGIS: Blender addons to make the bridge between Blender and geographic data](https://github.com/domlysz/BlenderGIS)
+
+16. Graphhopper [Open Source - GraphHopper Directions API](https://www.graphhopper.com/open-source/)
+
+17. CartoDB [GitHub - CartoDB/cartodb: Location Intelligence &amp; Data Visualization tool](https://github.com/CartoDB/cartodb)
+
+18. Headway https://github.com/headwaymaps/headway
+
+19. Felicette [GitHub - plant99/felicette: Satellite imagery for dummies.](https://github.com/plant99/felicette)
+
+20. 
