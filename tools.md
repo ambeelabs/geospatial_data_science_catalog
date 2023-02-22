@@ -40,4 +40,8 @@
 
 19. Felicette [GitHub - plant99/felicette: Satellite imagery for dummies.](https://github.com/plant99/felicette)
 
-20. 
+20. Microsoft Geospatial ML Tools [Geospatial Machine Learning: Downloads - Microsoft Research](https://www.microsoft.com/en-us/research/project/geospatial-machine-learning/downloads/)
+
+21. Visual Vocabulary [Visual Vocabulary ft. Vega](https://gramener.github.io/visual-vocabulary-vega/)
+
+22. NASA World View https://worldview.earthdata.nasa.gov/

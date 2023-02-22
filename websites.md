@@ -98,6 +98,14 @@
 
 37. https://medium.com/spatial-data-science/explore-open-source-python-gis-and-earth-observation-libraries-interactively-8f22851745f9
 
+38. http://geologyandpython.com/ml-interpolation-method.html
+
+39. [GeoAI &#038; Geospatial Python libraries &#8211; Deep Learning Garden](https://deeplearning.lipingyang.org/geoai-geospatial-python-libraries/)
+
+40. https://nethope.org/webinars/machine-learning-in-mapping-and-spatial-analysis/
+
+41. 
+
 ## Youtube/Videos
 
 1. [GeoDa Software - YouTube](https://youtube.com/@GeoDaCenter)
