@@ -12,4 +12,4 @@ This project catalogs and organizes various open access resources for geospatial
 
 5. [Websites](websites.md)
 
-6. [Other Useful Repos](github-repos)
+6. [Other Useful Repos](github-repos.md)
