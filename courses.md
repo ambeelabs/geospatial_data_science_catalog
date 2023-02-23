@@ -84,6 +84,10 @@
 
 39. Spatial Data Programming with Python [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html)
 
+40. Spatial Data Science Coursera https://coursera.org/learn/spatial-data-science
+
+41. Geospatial on Coursera https://www.coursera.org/search?query=Geospatial
+
 ## GIS
 
 1. Essentials of GIS ([Essentials of Geographic Information Systems - Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/67))
@@ -93,3 +97,5 @@
 3. Introduction to GIS https://volaya.github.io/gis-book/en/index.html
 
 4. GIS Open Courseware [OCWGIS: All courses](https://courses.gisopencourseware.org/course/index.php?categoryid=2)
+
+5. GIS Specialization https://www.coursera.org/specializations/gis

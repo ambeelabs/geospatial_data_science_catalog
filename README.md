@@ -1,6 +1,6 @@
 # Geospatial Data Science Catalog
 
-This project catalogs and organizes various open access resources for geospatial data science. The catalog is organized into libraries (for python), courses, datasets, websites, tools and github repos.
+This project catalogs and organizes various open access resources for geospatial data science. The catalog is organized into libraries (for python), courses, datasets, websites, tools and github repos. This list is constantly being updated with new reseources.
 
 1. [Python Libraries](libraries.md)
 

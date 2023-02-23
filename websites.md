@@ -104,7 +104,7 @@
 
 40. https://nethope.org/webinars/machine-learning-in-mapping-and-spatial-analysis/
 
-41. 
+41. https://towardsdatascience.com/creating-beautiful-topography-maps-with-python-efced5507aa3
 
 ## Youtube/Videos
 
