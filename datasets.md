@@ -26,29 +26,31 @@
 
 11. World Bank https://data.worldbank.org/
 
-12. Kaggle www.kaggle.com/
+12. World Bank Data Catalog [Data Catalog](https://datacatalog.worldbank.org/home)
 
-13. DBPedia  https://www.dbpedia.org/
+13. Kaggle www.kaggle.com/
 
-14. Yelp  [Yelp Dataset](https://www.yelp.com/dataset)
+14. DBPedia  https://www.dbpedia.org/
 
-15. Global ML Building Footprints [GitHub - microsoft/GlobalMLBuildingFootprints: Worldwide building footprints derived from satellite imagery](https://github.com/microsoft/GlobalMLBuildingFootprints)
+15. Yelp  [Yelp Dataset](https://www.yelp.com/dataset)
 
-16. Humanitarial Data Exchange https://data.humdata.org/
+16. Global ML Building Footprints [GitHub - microsoft/GlobalMLBuildingFootprints: Worldwide building footprints derived from satellite imagery](https://github.com/microsoft/GlobalMLBuildingFootprints)
 
-17. Eurostats [Database - Eurostat](https://ec.europa.eu/eurostat/web/main/data/database)
+17. Humanitarial Data Exchange https://data.humdata.org/
 
-18. Our World in Data https://ourworldindata.org/
+18. Eurostats [Database - Eurostat](https://ec.europa.eu/eurostat/web/main/data/database)
 
-19. IMF [IMF Data](https://www.imf.org/en/Data)
+19. Our World in Data https://ourworldindata.org/
 
-20. CloudtoStreet http://global-flood-database.cloudtostreet.info/
+20. IMF [IMF Data](https://www.imf.org/en/Data)
 
-21. US Census https://www.census.gov/programs-surveys/geography.html
+21. CloudtoStreet http://global-flood-database.cloudtostreet.info/
 
-22. University of Texas Geodata https://geodata.lib.utexas.edu/
+22. US Census https://www.census.gov/programs-surveys/geography.html
 
-23. Some Government GIS Portals Also provide official shapefiles
+23. University of Texas Geodata https://geodata.lib.utexas.edu/
+
+24. Some Government GIS Portals Also provide official shapefiles
 
 ## Raster, Remote Sensing and Satellite Data
 
@@ -89,6 +91,8 @@
 18. ESRI Land Use  https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d
 
 19. Public data from CARTO Spatial Data Catalog https://carto.com/spatial-data-catalog/browser/?license=public
+
+20. Global electricity transmission and distribution lines - [Data Catalog](https://datacatalog.worldbank.org/search/dataset/0038055)
 
 ## Other Lists
 
