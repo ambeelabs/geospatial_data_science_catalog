@@ -124,4 +124,4 @@
 14. [Scipy Geosptial Talks](https://www.youtube.com/results?search_query=scipy+geospatial)
 15. [Jupytercon Geospatial](https://www.youtube.com/results?search_query=jupytercon+geospatial)
 16. [Geo-Python - YouTube](https://www.youtube.com/@geo-python3329)
-17. 
+17. [OpenGeo Lab - YouTube](https://www.youtube.com/c/opengeolab)
