@@ -45,3 +45,5 @@
 21. Visual Vocabulary [Visual Vocabulary ft. Vega](https://gramener.github.io/visual-vocabulary-vega/)
 
 22. NASA World View https://worldview.earthdata.nasa.gov/
+
+23. mapshader [GitHub - makepath/mapshader: Simple Python GIS Web Services](https://github.com/makepath/mapshader)

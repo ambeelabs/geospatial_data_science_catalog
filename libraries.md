@@ -84,6 +84,10 @@
 
 19. Xclim ([GitHub - Ouranosinc/xclim: Library of derived climate variables, ie climate indicators, based on xarray.](https://github.com/Ouranosinc/xclim))
 
+20. lidar  [GitHub - giswqs/lidar: A Python package for delineating nested surface depressions from digital elevation data.](https://github.com/giswqs/lidar)
+
+21. laspy [GitHub - laspy/laspy: Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.](https://github.com/laspy/laspy)
+
 ## Modelling
 
 1. GSTools [Tools for Geospatial Statistical Modelling](https://github.com/GeoStat-Framework/GSTools)

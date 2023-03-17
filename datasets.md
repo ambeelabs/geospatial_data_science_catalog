@@ -50,7 +50,9 @@
 
 23. University of Texas Geodata https://geodata.lib.utexas.edu/
 
-24. Some Government GIS Portals Also provide official shapefiles
+24. Geonames http://download.geonames.org/ 
+
+25. Some Government GIS Portals Also provide official shapefiles
 
 ## Raster, Remote Sensing and Satellite Data
 
