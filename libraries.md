@@ -99,3 +99,4 @@
 4. pyinterpolate ([GitHub - DataverseLabs/pyinterpolate: Package with spatial analysis and spatial prediction tools](https://github.com/DataverseLabs/pyinterpolate))
 
 5. TorchGeo ([GitHub - microsoft/torchgeo: TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data](https://github.com/microsoft/torchgeo))
+6. SAMGeo - https://samgeo.gishub.org/
