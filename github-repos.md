@@ -23,4 +23,4 @@
 10. [GitHub - giswqs/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index](https://github.com/giswqs/geospatial-data-catalogs)
 
 11. [GitHub - SirRacha/Geospatial_Mapping_In_Python: A walkthrough of tutorials I made for working with geospatial data in Python. Includes my evaluations of Python geospatial libraries, tools and packages.](https://github.com/SirRacha/Geospatial_Mapping_In_Python)
-12. https://github.com/acgeospatial/awesome-earthobservation-code
+12. Awesome EO - https://github.com/acgeospatial/awesome-earthobservation-code
