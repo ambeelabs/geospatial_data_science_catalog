@@ -53,6 +53,10 @@
 24. Geonames http://download.geonames.org/ 
 
 25. Some Government GIS Portals Also provide official shapefiles
+26. ResourceWatch - resourcewatch.org/
+27. Harvard Dataverse - https://dataverse.harvard.edu/
+28. Whymap - https://www.whymap.org/whymap/EN/Maps_Data/maps_data_node_en.html
+29. 
 
 ## Raster, Remote Sensing and Satellite Data
 
